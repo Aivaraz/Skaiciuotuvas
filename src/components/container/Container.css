@@ -1,0 +1,8 @@
+.container {
+  width: 340px;
+  height: 540px;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: #486254;
+  background-image: linear-gradient(315def, #486254 0%, #169985 70%);
+}
